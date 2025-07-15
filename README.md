@@ -30,3 +30,5 @@ To summarize, automated report generation with Python is a practical, efficient,
 
 
 #OUTPUT
+
+<img width="996" height="487" alt="Image" src="https://github.com/user-attachments/assets/46428ac6-e1ff-4591-adf6-31088de4378c" />
